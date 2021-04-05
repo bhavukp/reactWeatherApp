@@ -131,12 +131,7 @@ button:active {
 
 @media(max-width:450px){
 
-  .wrapper{
-    height: 100%;
-  }
-
   .main{
-    height: 100%;
     flex-direction: column;
   }
 

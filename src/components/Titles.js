@@ -12,4 +12,3 @@ class Titles extends Component {
 }
 
 export default Titles
-

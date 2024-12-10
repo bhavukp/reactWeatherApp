@@ -56,6 +56,11 @@ body {
   width:65%;
   padding: 10px 50px 0;
   color:white;
+  overflow: scroll;
+}
+
+.form-container::-webkit-scrollbar {
+  display: none;
 }
 
 .inner-form {
